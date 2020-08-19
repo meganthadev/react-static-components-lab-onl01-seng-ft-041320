@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+GraceHopperQuoteComponent
 
 export default class CatComponent extends Component {
   render() {
