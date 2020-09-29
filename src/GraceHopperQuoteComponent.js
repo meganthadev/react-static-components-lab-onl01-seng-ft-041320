@@ -16,3 +16,7 @@ export class GraceHopperQuoteComponent extends Component {
 	}
 }
 
+<<<<<<< HEAD
+=======
+export default;
+>>>>>>> 9c03aa0c11452bddc78d2dad8104eb5c7d360570
